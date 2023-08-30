@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p -A -m | sed -z 's/\n/, /g; s/,$/\n/'
+ls -m 
